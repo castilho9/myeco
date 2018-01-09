@@ -1,0 +1,2 @@
+[2018-01-06T21:14:45-02:00] starting `/usr/lib/heroku/bin/heroku update --autoupdate` from /usr/lib/heroku/bin/heroku.js version
+ ▸    update the CLI with "sudo apt-get upgrade heroku"

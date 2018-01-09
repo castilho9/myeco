@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "commands": [
+    {
+      "command": "git:remote",
+      "completion": 0,
+      "version": "6.15.13-3dce47c",
+      "plugin": "heroku-git",
+      "plugin_version": "2.5.23",
+      "os": "linux",
+      "shell": "bash",
+      "valid": true,
+      "language": "node"
+    }
+  ]
+}

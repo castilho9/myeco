@@ -1,0 +1,17 @@
+Error: update the CLI with "sudo apt-get upgrade heroku"
+    at Errors.error (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:62:23)
+    at Errors.warn (/usr/lib/heroku/node_modules/cli-ux/lib/errors.js:95:14)
+    at action.pause (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:59:32)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-ux/lib/action/base.js:100:21)
+    at CLI.warn (/usr/lib/heroku/node_modules/cli-ux/lib/index.js:58:21)
+    at Update.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/commands/update.js:24:34)
+    at Generator.next (<anonymous>)
+    at /usr/lib/heroku/node_modules/tslib/tslib.js:105:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (/usr/lib/heroku/node_modules/tslib/tslib.js:101:16)
+    at Update.run (/usr/lib/heroku/node_modules/@cli-engine/engine/lib/commands/update.js:17:24)
+    at Function.<anonymous> (/usr/lib/heroku/node_modules/@cli-engine/command/lib/command.js:103:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/usr/lib/heroku/node_modules/tslib/tslib.js:102:62)
+    at <anonymous>
+ ▸    update the CLI with "sudo apt-get upgrade heroku"

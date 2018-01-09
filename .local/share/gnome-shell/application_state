@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gucharmap.desktop" open-window-count="0" score="0" last-seen="1515165337"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="15" last-seen="1515170120"/>
+    <application id="yelp.desktop" open-window-count="0" score="8" last-seen="1515262904"/>
+    <application id="onboard.desktop" open-window-count="0" score="8" last-seen="1515170734"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1515278307"/>
+    <application id="file-roller.desktop" open-window-count="0" score="0" last-seen="1515267095"/>
+    <application id="firefox.desktop" open-window-count="1" score="1693" last-seen="1515288696"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="321" last-seen="1515287763"/>
+    <application id="sublime-text.desktop" open-window-count="1" score="374" last-seen="1515279994"/>
+    <application id="update-manager.desktop" open-window-count="0" score="107" last-seen="1515167611"/>
+    <application id="software-properties-gtk.desktop" open-window-count="0" score="31" last-seen="1515166378"/>
+    <application id="gnome-session-properties.desktop" open-window-count="0" score="1" last-seen="1515166317"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="1515279800"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="8" last-seen="1515267169"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="135" last-seen="1515279804"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1326" last-seen="1515288570"/>
+    <application id="ubuntu-mate-welcome.desktop" open-window-count="0" score="5" last-seen="1515169712"/>
+    <application id="sol.desktop" open-window-count="0" score="0" last-seen="1515167638"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="224" last-seen="1515288508"/>
+  </context>
+</application-state>
